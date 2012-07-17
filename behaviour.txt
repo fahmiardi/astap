@@ -1,0 +1,31 @@
+
+astaperaga (Anugerah Semesta Teknologi)
+	- bodyTema: #326bfa 
+	- backTema: #5182fd
+	- tripTema: #0037c1
+	- tripTemaText: #ffffff
+	- banerTema: aba_06.jpg	
+	- banerTripTema: aba_10.jpg
+	- rincian: 
+	- domain: 
+
+RafaMedicalCenter
+	- bodyTema: #b200e6
+	- backTema: #ca25fa
+	- tripTema: #5a0074
+	- tripTemaText: #ffffff
+	- banerTema: aba_05.jpg
+	- banerTripTema: aba_08.jpg
+	- rincian: 
+	- domain: 
+
+
+Pusat Penjualan
+	- bodyTema: #5ee404
+	- backTema: #66ff00
+	- tripTema: #286003
+	- tripTemaText: #ffffff
+	- banerTema: aba_03.jpg
+	- banerTripTema: aba_09.jpg
+	- rincian: 
+	- domain: 
